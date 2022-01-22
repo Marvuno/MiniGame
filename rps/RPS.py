@@ -89,7 +89,7 @@ win_pattern = []
 opponent_history = ['P', 'R', 'S', 'R', 'P'] * 2
 my_history = ['S', 'P', 'R', 'P', 'S'] * 2
 strategy = [0, 0]
-method = [smart, markov]  # Model 1 & 4
+method = [smart, markov]  # Model 1 & 5
 i = 1
 
 
