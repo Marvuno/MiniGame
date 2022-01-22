@@ -1,5 +1,5 @@
 # MiniGame
- MiniGame features 9 small family-friendly minigames. It includes Turtle Crossing, Ping Pong, Hangman, Blackjack, Number Guessing Game, Higher Lower Game, Quiz Game, Snake and Turtle Race. The gameplay controls and rules of the games are as follows:
+MiniGame features 10 small family-friendly minigames. It includes Turtle Crossing, Ping Pong, Hangman, Blackjack, Number Guessing Game, Higher Lower Game, Quiz Game, Snake, Turtle Race and Rock Paper Scissors. The gameplay controls and rules of the games are as follows:
  
 ## 1) Turtle Crossing Game
 ### Gameplay:
@@ -70,4 +70,8 @@
 1) You bet on the turtle that will win the race and watch the race
 2) You can enter Red/Orange/Yellow/Green/Blue/Purple to bet on the turtle of the respective colour
 
+## 10) Rock Paper Scissors
+### Gameplay:
+1) Play [R]ock [P]aper [S]cissors with RPS Expert Wincy!
+2) Featuring 5 bots (Quincy, Mrugesh, Kris, Abbey and Wincy)
 ### That's it! Hope you enjoy it! :)
