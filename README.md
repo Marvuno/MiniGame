@@ -1,9 +1,5 @@
 # MiniGame
-<<<<<<< HEAD
 MiniGame features 11 small family-friendly minigames. It includes Turtle Crossing, Ping Pong, Hangman, Blackjack, Number Guessing Game, Higher Lower Game, Quiz Game, Snake, Turtle Race, Rock Paper Scissors and Wordle. The gameplay controls and rules of the games are as follows:
-=======
-MiniGame features 10 small family-friendly minigames. It includes Turtle Crossing, Ping Pong, Hangman, Blackjack, Number Guessing Game, Higher Lower Game, Quiz Game, Snake, Turtle Race and Rock Paper Scissors. The gameplay controls and rules of the games are as follows:
->>>>>>> e69ff9cf3379d61d3da4670fbbe3a66b59b840f4
  
 ## 1) Turtle Crossing Game
 ### Gameplay:
@@ -91,6 +87,4 @@ After each guess, the color of the tiles will change to show how close your gues
 You can use your keyboard to type the word!
 Use "Enter" to submit your word and "Clear" to delete what you have inputted.
 Have fun!
-=======
->>>>>>> e69ff9cf3379d61d3da4670fbbe3a66b59b840f4
 ### That's it! Hope you enjoy it! :)
