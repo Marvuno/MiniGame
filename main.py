@@ -8,6 +8,8 @@ from quiz_game.quizzler_main import Quizzler_Game
 from snake.snake_main import Snake_Game
 from turtle_race.race_main import Race_Game
 from rps.rps_main import RPS
+from wordle.wordle_main import Wordle
+
 
 game_list = {1: Turtle_Crossing_Game,
              2: Pong_Game,
@@ -18,10 +20,10 @@ game_list = {1: Turtle_Crossing_Game,
              7: Quizzler_Game,
              8: Snake_Game,
              9: Race_Game,
-             10: RPS}
+             10: RPS,
+             11: Wordle}
 
 game_option = int(input("1 for Turtle Crossing, 2 for Ping Pong, 3 for Hangman, 4 for Blackjack, 5 for Number "
-                        "Guessing Game, 6 for Higher Lower Game, 7 for Quiz Game, 8 for Snake, 9 for Turtle Race, "
-                        "10 for Rock Paper Scissors: "))
-
+                        "Guessing Game, 6 for Higher Lower Game,\n7 for Quiz Game, 8 for Snake, 9 for Turtle Race, "
+                        "10 for Rock Paper Scissors, 11 for Wordle: "))
 game_list[game_option]()
