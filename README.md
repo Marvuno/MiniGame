@@ -80,9 +80,11 @@ MiniGame features 11 small family-friendly minigames. It includes Turtle Crossin
 Guess the WORDLE in 6 tries.
 Each guess must be a valid 5 letter word. Hit the enter button to submit.
 After each guess, the color of the tiles will change to show how close your guess was to the word.
+
 **Green**: The letter is in the word and in the correct spot.
 **Yellow**: The letter is in the word but in the wrong spot.
 **Grey**: The letter is not in the word in any spot.
+
 You can use your keyboard to type the word!
 Use "Enter" to submit your word and "Clear" to delete what you have inputted.
 Have fun!
