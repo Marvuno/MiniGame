@@ -93,10 +93,11 @@ def Wordle():
             pygame.mixer.music.load("wordle/win.mp3")
             result = True
         elif attempt == 6:
-            result = True
             pygame.mixer.music.load("wordle/lost.mp3")
+            result = True
 
         if result:
+            print(word)
             for i in range(28):
                 keyboard_buttons[i].config(state=DISABLED)
             pygame.mixer.music.play()
